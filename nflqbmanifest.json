@@ -1,0 +1,25 @@
+{
+  "short_name": "QB Analytics",
+  "name": "NFL Quarterback Analytics & Valuation Hub",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/53/53283.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/53/53283.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#1D3557",
+  "theme_color": "#1D3557",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "description": "An interactive R Shiny dashboard and comparison tool for analyzing multi-year NFL quarterback statistics, efficiency metrics (EPA, CPOE), and contract valuations."
+}
